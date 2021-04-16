@@ -1,0 +1,1 @@
+In this project, two ROS packages are created inside the catkin_ws/src: the my_robot and the ball_chaser.
